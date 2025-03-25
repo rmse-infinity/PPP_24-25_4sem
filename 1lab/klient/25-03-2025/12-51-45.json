@@ -1,0 +1,1778 @@
+[
+    {
+        "pid": 1,
+        "name": "/sbin/launchd"
+    },
+    {
+        "pid": 311,
+        "name": "/usr/libexec/logd"
+    },
+    {
+        "pid": 313,
+        "name": "/usr/libexec/UserEventAgent"
+    },
+    {
+        "pid": 315,
+        "name": "/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/FSEvents.framework/Versions/A/Support/fseventsd"
+    },
+    {
+        "pid": 316,
+        "name": "/System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremoted"
+    },
+    {
+        "pid": 319,
+        "name": "/usr/sbin/systemstats"
+    },
+    {
+        "pid": 322,
+        "name": "/usr/libexec/configd"
+    },
+    {
+        "pid": 324,
+        "name": "/System/Library/CoreServices/powerd.bundle/powerd"
+    },
+    {
+        "pid": 325,
+        "name": "/usr/libexec/IOMFB_bics_daemon"
+    },
+    {
+        "pid": 334,
+        "name": "/usr/libexec/watchdogd"
+    },
+    {
+        "pid": 338,
+        "name": "/System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Support/mds"
+    },
+    {
+        "pid": 340,
+        "name": "/usr/libexec/kernelmanagerd"
+    },
+    {
+        "pid": 341,
+        "name": "/usr/libexec/diskarbitrationd"
+    },
+    {
+        "pid": 345,
+        "name": "/usr/sbin/syslogd"
+    },
+    {
+        "pid": 348,
+        "name": "/usr/libexec/thermalmonitord"
+    },
+    {
+        "pid": 349,
+        "name": "/usr/libexec/opendirectoryd"
+    },
+    {
+        "pid": 351,
+        "name": "/System/Library/PrivateFrameworks/ApplePushService.framework/apsd"
+    },
+    {
+        "pid": 352,
+        "name": "/System/Library/CoreServices/launchservicesd"
+    },
+    {
+        "pid": 353,
+        "name": "/usr/libexec/timed"
+    },
+    {
+        "pid": 354,
+        "name": "/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/Resources/usbmuxd"
+    },
+    {
+        "pid": 355,
+        "name": "/usr/sbin/securityd"
+    },
+    {
+        "pid": 357,
+        "name": "/usr/libexec/locationd"
+    },
+    {
+        "pid": 360,
+        "name": "autofsd"
+    },
+    {
+        "pid": 361,
+        "name": "/usr/libexec/dasd"
+    },
+    {
+        "pid": 363,
+        "name": "/usr/sbin/distnoted"
+    },
+    {
+        "pid": 365,
+        "name": "/usr/libexec/PerfPowerServices"
+    },
+    {
+        "pid": 367,
+        "name": "/System/Library/CoreServices/logind"
+    },
+    {
+        "pid": 368,
+        "name": "/System/Library/PrivateFrameworks/GenerationalStorage.framework/Versions/A/Support/revisiond"
+    },
+    {
+        "pid": 369,
+        "name": "/usr/sbin/KernelEventAgent"
+    },
+    {
+        "pid": 372,
+        "name": "/usr/sbin/bluetoothd"
+    },
+    {
+        "pid": 373,
+        "name": "/usr/sbin/notifyd"
+    },
+    {
+        "pid": 375,
+        "name": "/usr/libexec/corebrightnessd"
+    },
+    {
+        "pid": 376,
+        "name": "/usr/libexec/AirPlayXPCHelper"
+    },
+    {
+        "pid": 377,
+        "name": "/System/Library/Frameworks/CoreMediaIO.framework/Versions/A/Resources/com.apple.cmio.registerassistantservice"
+    },
+    {
+        "pid": 379,
+        "name": "/System/Library/PrivateFrameworks/SkyLight.framework/Resources/WindowServer"
+    },
+    {
+        "pid": 380,
+        "name": "/System/Library/PrivateFrameworks/TCC.framework/Support/tccd"
+    },
+    {
+        "pid": 381,
+        "name": "/usr/sbin/cfprefsd"
+    },
+    {
+        "pid": 383,
+        "name": "/System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow"
+    },
+    {
+        "pid": 384,
+        "name": "/usr/libexec/runningboardd"
+    },
+    {
+        "pid": 386,
+        "name": "/usr/libexec/lsd"
+    },
+    {
+        "pid": 387,
+        "name": "/System/Library/PrivateFrameworks/CoreDuetContext.framework/Resources/contextstored"
+    },
+    {
+        "pid": 388,
+        "name": "/System/Library/CoreServices/coreservicesd"
+    },
+    {
+        "pid": 390,
+        "name": "/usr/libexec/airportd"
+    },
+    {
+        "pid": 396,
+        "name": "/usr/sbin/coreaudiod"
+    },
+    {
+        "pid": 398,
+        "name": "/usr/libexec/apfsd"
+    },
+    {
+        "pid": 399,
+        "name": "/usr/libexec/nsurlsessiond"
+    },
+    {
+        "pid": 401,
+        "name": "/usr/sbin/distnoted"
+    },
+    {
+        "pid": 403,
+        "name": "/System/Library/PrivateFrameworks/CoreAnalytics.framework/Support/analyticsd"
+    },
+    {
+        "pid": 412,
+        "name": "/usr/sbin/distnoted"
+    },
+    {
+        "pid": 414,
+        "name": "/System/Library/Frameworks/Security.framework/Versions/A/XPCServices/authd.xpc/Contents/MacOS/authd"
+    },
+    {
+        "pid": 434,
+        "name": "/usr/libexec/eligibilityd"
+    },
+    {
+        "pid": 449,
+        "name": "/usr/sbin/distnoted"
+    },
+    {
+        "pid": 474,
+        "name": "/usr/sbin/mDNSResponder"
+    },
+    {
+        "pid": 476,
+        "name": "/usr/libexec/symptomsd"
+    },
+    {
+        "pid": 485,
+        "name": "/usr/sbin/WirelessRadioManagerd"
+    },
+    {
+        "pid": 487,
+        "name": "/usr/libexec/syspolicyd"
+    },
+    {
+        "pid": 492,
+        "name": "/usr/libexec/audioclocksyncd"
+    },
+    {
+        "pid": 497,
+        "name": "/usr/sbin/distnoted"
+    },
+    {
+        "pid": 501,
+        "name": "/usr/libexec/ApplicationFirewall/socketfilterfw"
+    },
+    {
+        "pid": 502,
+        "name": "/System/Library/DriverExtensions/com.apple.DriverKit-AppleBCMWLAN.dext/com.apple.DriverKit-AppleBCMWLAN"
+    },
+    {
+        "pid": 503,
+        "name": "/System/Library/DriverExtensions/com.apple.DriverKit-IOUserDockChannelSerial.dext/com.apple.DriverKit-IOUserDockChannelSerial"
+    },
+    {
+        "pid": 504,
+        "name": "/System/Library/DriverExtensions/com.apple.AppleUserHIDDrivers.dext/com.apple.AppleUserHIDDrivers"
+    },
+    {
+        "pid": 505,
+        "name": "/System/Library/CoreServices/appleeventsd"
+    },
+    {
+        "pid": 506,
+        "name": "/usr/libexec/modelmanagerd"
+    },
+    {
+        "pid": 510,
+        "name": "/usr/libexec/aned"
+    },
+    {
+        "pid": 515,
+        "name": "/System/Library/CoreServices/Software Update.app/Contents/Resources/suhelperd"
+    },
+    {
+        "pid": 517,
+        "name": "/Library/PrivilegedHelperTools/com.atrix.rusvpn.helper"
+    },
+    {
+        "pid": 520,
+        "name": "/usr/sbin/mDNSResponderHelper"
+    },
+    {
+        "pid": 522,
+        "name": "/usr/libexec/rosetta/oahd"
+    },
+    {
+        "pid": 527,
+        "name": "/usr/sbin/distnoted"
+    },
+    {
+        "pid": 532,
+        "name": "/usr/sbin/appleh13camerad"
+    },
+    {
+        "pid": 533,
+        "name": "/usr/libexec/cameracaptured"
+    },
+    {
+        "pid": 534,
+        "name": "/System/Library/Frameworks/CoreMediaIO.framework/Versions/A/Resources/UVCAssistant.systemextension/Contents/MacOS/UVCAssistant"
+    },
+    {
+        "pid": 543,
+        "name": "/usr/sbin/distnoted"
+    },
+    {
+        "pid": 544,
+        "name": "/usr/sbin/cfprefsd"
+    },
+    {
+        "pid": 547,
+        "name": "/usr/libexec/searchpartyd"
+    },
+    {
+        "pid": 548,
+        "name": "/usr/libexec/UserEventAgent"
+    },
+    {
+        "pid": 553,
+        "name": "/usr/sbin/universalaccessd"
+    },
+    {
+        "pid": 554,
+        "name": "/System/Library/CoreServices/WindowManager.app/Contents/MacOS/WindowManager"
+    },
+    {
+        "pid": 556,
+        "name": "/usr/libexec/pboard"
+    },
+    {
+        "pid": 557,
+        "name": "/System/Library/CoreServices/audioaccessoryd"
+    },
+    {
+        "pid": 560,
+        "name": "/System/Library/PrivateFrameworks/UserNotificationsCore.framework/Support/usernotificationsd"
+    },
+    {
+        "pid": 561,
+        "name": "/usr/libexec/lsd"
+    },
+    {
+        "pid": 563,
+        "name": "/usr/libexec/rapportd"
+    },
+    {
+        "pid": 564,
+        "name": "/System/Library/Frameworks/Accounts.framework/Versions/A/Support/accountsd"
+    },
+    {
+        "pid": 567,
+        "name": "/System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/Support/assistantd"
+    },
+    {
+        "pid": 568,
+        "name": "/usr/libexec/containermanagerd"
+    },
+    {
+        "pid": 573,
+        "name": "/System/Library/PrivateFrameworks/IDS.framework/identityservicesd.app/Contents/MacOS/identityservicesd"
+    },
+    {
+        "pid": 575,
+        "name": "/usr/libexec/secd"
+    },
+    {
+        "pid": 577,
+        "name": "/usr/sbin/distnoted"
+    },
+    {
+        "pid": 579,
+        "name": "/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app/Contents/MacOS/Safari"
+    },
+    {
+        "pid": 580,
+        "name": "/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/XPCServices/com.apple.hiservices-xpcservice.xpc/Contents/MacOS/com.apple.hiservices-xpcservice"
+    },
+    {
+        "pid": 583,
+        "name": "/usr/libexec/trustd"
+    },
+    {
+        "pid": 586,
+        "name": "/usr/libexec/nsurlsessiond"
+    },
+    {
+        "pid": 588,
+        "name": "/usr/sbin/distnoted"
+    },
+    {
+        "pid": 589,
+        "name": "/usr/sbin/distnoted"
+    },
+    {
+        "pid": 593,
+        "name": "/System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd"
+    },
+    {
+        "pid": 600,
+        "name": "/System/Library/Frameworks/CryptoTokenKit.framework/ctkd"
+    },
+    {
+        "pid": 601,
+        "name": "/System/Library/Frameworks/LocalAuthentication.framework/Support/coreauthd"
+    },
+    {
+        "pid": 605,
+        "name": "/System/Library/PrivateFrameworks/TCC.framework/Support/tccd"
+    },
+    {
+        "pid": 606,
+        "name": "/usr/sbin/usernoted"
+    },
+    {
+        "pid": 609,
+        "name": "/System/Library/PrivateFrameworks/BiomeStreams.framework/Support/BiomeAgent"
+    },
+    {
+        "pid": 610,
+        "name": "/usr/libexec/wifip2pd"
+    },
+    {
+        "pid": 616,
+        "name": "/System/Library/CoreServices/NotificationCenter.app/Contents/MacOS/NotificationCenter"
+    },
+    {
+        "pid": 618,
+        "name": "/System/Library/PrivateFrameworks/FamilyCircle.framework/Versions/A/Resources/familycircled"
+    },
+    {
+        "pid": 621,
+        "name": "/System/Library/CoreServices/lockoutagent"
+    },
+    {
+        "pid": 628,
+        "name": "/System/Library/PrivateFrameworks/CoreDuetContext.framework/Resources/ContextStoreAgent"
+    },
+    {
+        "pid": 630,
+        "name": "/System/Library/PrivateFrameworks/CoreSpeech.framework/corespeechd"
+    },
+    {
+        "pid": 632,
+        "name": "/System/Library/PrivateFrameworks/WirelessDiagnostics.framework/Support/awdd"
+    },
+    {
+        "pid": 635,
+        "name": "/System/Library/PrivateFrameworks/HomeKitDaemon.framework/Support/homed"
+    },
+    {
+        "pid": 636,
+        "name": "/usr/libexec/ContinuityCaptureAgent"
+    },
+    {
+        "pid": 637,
+        "name": "/usr/libexec/sharingd"
+    },
+    {
+        "pid": 644,
+        "name": "/usr/libexec/nearbyd"
+    },
+    {
+        "pid": 648,
+        "name": "/Applications/Telegram.app/Contents/MacOS/Telegram"
+    },
+    {
+        "pid": 650,
+        "name": "/System/Library/CoreServices/sharedfilelistd"
+    },
+    {
+        "pid": 651,
+        "name": "/System/Applications/Notes.app/Contents/MacOS/Notes"
+    },
+    {
+        "pid": 653,
+        "name": "/System/Library/PrivateFrameworks/IMCore.framework/imagent.app/Contents/MacOS/imagent"
+    },
+    {
+        "pid": 658,
+        "name": "/System/Library/PrivateFrameworks/ViewBridge.framework/Versions/A/XPCServices/ViewBridgeAuxiliary.xpc/Contents/MacOS/ViewBridgeAuxiliary"
+    },
+    {
+        "pid": 659,
+        "name": "/System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremoteagent"
+    },
+    {
+        "pid": 661,
+        "name": "/System/Library/CoreServices/Dock.app/Contents/MacOS/Dock"
+    },
+    {
+        "pid": 662,
+        "name": "/System/Library/PrivateFrameworks/UserActivity.framework/Agents/useractivityd"
+    },
+    {
+        "pid": 663,
+        "name": "/System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework/Support/fontd"
+    },
+    {
+        "pid": 664,
+        "name": "/System/Library/CoreServices/ControlCenter.app/Contents/MacOS/ControlCenter"
+    },
+    {
+        "pid": 665,
+        "name": "/System/Library/CoreServices/SystemUIServer.app/Contents/MacOS/SystemUIServer"
+    },
+    {
+        "pid": 666,
+        "name": "/usr/libexec/avconferenced"
+    },
+    {
+        "pid": 667,
+        "name": "/System/Library/CoreServices/Finder.app/Contents/MacOS/Finder"
+    },
+    {
+        "pid": 671,
+        "name": "/usr/libexec/seserviced"
+    },
+    {
+        "pid": 675,
+        "name": "/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/Support/fontworker"
+    },
+    {
+        "pid": 676,
+        "name": "/System/Library/CoreServices/WallpaperAgent.app/Contents/MacOS/WallpaperAgent"
+    },
+    {
+        "pid": 677,
+        "name": "/usr/sbin/filecoordinationd"
+    },
+    {
+        "pid": 679,
+        "name": "/System/Library/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService"
+    },
+    {
+        "pid": 683,
+        "name": "/System/Library/PrivateFrameworks/CoreSuggestions.framework/Versions/A/Support/suggestd"
+    },
+    {
+        "pid": 685,
+        "name": "/System/Library/PrivateFrameworks/HearingCore.framework/heard"
+    },
+    {
+        "pid": 688,
+        "name": "/System/Cryptexes/App/usr/libexec/com.apple.Safari.History"
+    },
+    {
+        "pid": 689,
+        "name": "automountd"
+    },
+    {
+        "pid": 693,
+        "name": "/System/Library/PrivateFrameworks/FileProvider.framework/Support/fileproviderd"
+    },
+    {
+        "pid": 697,
+        "name": "/System/Library/PrivateFrameworks/AMPDevices.framework/Versions/A/Support/AMPDeviceDiscoveryAgent"
+    },
+    {
+        "pid": 699,
+        "name": "/usr/libexec/gamepolicyd"
+    },
+    {
+        "pid": 700,
+        "name": "/System/Library/ExtensionKit/Extensions/WallpaperDynamicExtension.appex/Contents/MacOS/WallpaperDynamicExtension"
+    },
+    {
+        "pid": 704,
+        "name": "/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/CVMServer"
+    },
+    {
+        "pid": 705,
+        "name": "/System/Library/CoreServices/WiFiAgent.app/Contents/MacOS/WiFiAgent"
+    },
+    {
+        "pid": 712,
+        "name": "/System/Cryptexes/App/System/Library/CoreServices/SafariSupport.bundle/Contents/MacOS/SafariBookmarksSyncAgent"
+    },
+    {
+        "pid": 713,
+        "name": "/usr/libexec/networkserviceproxy"
+    },
+    {
+        "pid": 721,
+        "name": "/System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Networking.xpc/Contents/MacOS/com.apple.WebKit.Networking"
+    },
+    {
+        "pid": 723,
+        "name": "/System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.GPU.xpc/Contents/MacOS/com.apple.WebKit.GPU"
+    },
+    {
+        "pid": 730,
+        "name": "/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app/Contents/XPCServices/com.apple.Safari.SandboxBroker.xpc/Contents/MacOS/com.apple.Safari.SandboxBroker"
+    },
+    {
+        "pid": 734,
+        "name": "/usr/libexec/wifianalyticsd"
+    },
+    {
+        "pid": 738,
+        "name": "/System/Library/CoreServices/Dock.app/Contents/XPCServices/com.apple.dock.extra.xpc/Contents/MacOS/com.apple.dock.extra"
+    },
+    {
+        "pid": 739,
+        "name": "/System/Library/CoreServices/Spotlight.app/Contents/MacOS/Spotlight"
+    },
+    {
+        "pid": 740,
+        "name": "/System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/corespotlightd"
+    },
+    {
+        "pid": 745,
+        "name": "/System/Library/CoreServices/UIKitSystem.app/Contents/MacOS/UIKitSystem"
+    },
+    {
+        "pid": 755,
+        "name": "/System/Library/ExtensionKit/Extensions/WallpaperImageExtension.appex/Contents/MacOS/WallpaperImageExtension"
+    },
+    {
+        "pid": 756,
+        "name": "/System/Library/PrivateFrameworks/CloudDocs.framework/PlugIns/com.apple.CloudDocs.iCloudDriveFileProvider.appex/Contents/MacOS/com.apple.CloudDocs.iCloudDriveFileProvider"
+    },
+    {
+        "pid": 764,
+        "name": "/System/Library/Frameworks/InputMethodKit.framework/Resources/imklaunchagent"
+    },
+    {
+        "pid": 765,
+        "name": "/System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/com.apple.appkit.xpc.openAndSavePanelService.xpc/Contents/MacOS/com.apple.appkit.xpc.openAndSavePanelService"
+    },
+    {
+        "pid": 766,
+        "name": "/System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mds_stores"
+    },
+    {
+        "pid": 768,
+        "name": "/System/Library/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService"
+    },
+    {
+        "pid": 770,
+        "name": "/System/Library/Input Methods/PressAndHold.app/Contents/PlugIns/PAH_Extension.appex/Contents/MacOS/PAH_Extension"
+    },
+    {
+        "pid": 788,
+        "name": "/usr/sbin/distnoted"
+    },
+    {
+        "pid": 813,
+        "name": "/usr/sbin/distnoted"
+    },
+    {
+        "pid": 814,
+        "name": "/System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/commerce"
+    },
+    {
+        "pid": 826,
+        "name": "/System/Library/PrivateFrameworks/PassKitCore.framework/passd"
+    },
+    {
+        "pid": 840,
+        "name": "/usr/sbin/distnoted"
+    },
+    {
+        "pid": 878,
+        "name": "/System/Library/Image Capture/Support/icdd"
+    },
+    {
+        "pid": 882,
+        "name": "/System/Library/CoreServices/AirPlayUIAgent.app/Contents/MacOS/AirPlayUIAgent"
+    },
+    {
+        "pid": 883,
+        "name": "/opt/homebrew/opt/postgresql@17/bin/postgres"
+    },
+    {
+        "pid": 884,
+        "name": "/System/Library/CoreServices/diagnostics_agent"
+    },
+    {
+        "pid": 885,
+        "name": "/System/Library/CoreServices/TextInputMenuAgent.app/Contents/MacOS/TextInputMenuAgent"
+    },
+    {
+        "pid": 888,
+        "name": "/usr/libexec/wifivelocityd"
+    },
+    {
+        "pid": 889,
+        "name": "/System/Library/Frameworks/CryptoTokenKit.framework/ctkahp.bundle/Contents/MacOS/ctkahp"
+    },
+    {
+        "pid": 893,
+        "name": "/System/Library/Frameworks/CryptoTokenKit.framework/ctkahp.bundle/Contents/MacOS/ctkahp"
+    },
+    {
+        "pid": 896,
+        "name": "/System/Library/PrivateFrameworks/FamilyControls.framework/Resources/parentalcontrolsd"
+    },
+    {
+        "pid": 897,
+        "name": "postgres: checkpointer"
+    },
+    {
+        "pid": 898,
+        "name": "postgres: background writer"
+    },
+    {
+        "pid": 901,
+        "name": "postgres: walwriter"
+    },
+    {
+        "pid": 902,
+        "name": "postgres: autovacuum launcher"
+    },
+    {
+        "pid": 903,
+        "name": "postgres: logical replication launcher"
+    },
+    {
+        "pid": 906,
+        "name": "/System/Library/DriverExtensions/IOUserBluetoothSerialDriver.dext/IOUserBluetoothSerialDriver"
+    },
+    {
+        "pid": 907,
+        "name": "/System/Library/DriverExtensions/IOUserBluetoothSerialDriver.dext/IOUserBluetoothSerialDriver"
+    },
+    {
+        "pid": 916,
+        "name": "/System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdbulkimport"
+    },
+    {
+        "pid": 924,
+        "name": "/System/Library/PrivateFrameworks/CoreFP.framework/Versions/A/fairplayd"
+    },
+    {
+        "pid": 942,
+        "name": "/usr/sbin/distnoted"
+    },
+    {
+        "pid": 966,
+        "name": "/usr/sbin/systemstats"
+    },
+    {
+        "pid": 968,
+        "name": "/usr/libexec/trustd"
+    },
+    {
+        "pid": 1023,
+        "name": "/System/Library/CoreServices/SubmitDiagInfo"
+    },
+    {
+        "pid": 1029,
+        "name": "/System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent"
+    },
+    {
+        "pid": 1044,
+        "name": "/System/Library/CoreServices/CrashReporterSupportHelper"
+    },
+    {
+        "pid": 1059,
+        "name": "/Applications/OneDrive.app/Contents/StandaloneUpdaterDaemon.xpc/Contents/MacOS/StandaloneUpdaterDaemon"
+    },
+    {
+        "pid": 1188,
+        "name": "/System/Library/PrivateFrameworks/TextInputUIMacHelper.framework/Versions/A/XPCServices/CursorUIViewService.xpc/Contents/MacOS/CursorUIViewService"
+    },
+    {
+        "pid": 1221,
+        "name": "/System/Library/Frameworks/CoreSpotlight.framework/spotlightknowledged"
+    },
+    {
+        "pid": 1257,
+        "name": "/usr/sbin/distnoted"
+    },
+    {
+        "pid": 1277,
+        "name": "/usr/libexec/duetexpertd"
+    },
+    {
+        "pid": 1470,
+        "name": "/System/Library/CoreServices/Applications/Feedback Assistant.app/Contents/Library/LaunchServices/fbahelperd"
+    },
+    {
+        "pid": 1641,
+        "name": "/System/Library/PrivateFrameworks/LocalAuthenticationUI.framework/Versions/A/XPCServices/LocalAuthenticationRemoteService.xpc/Contents/MacOS/LocalAuthenticationRemoteService"
+    },
+    {
+        "pid": 1679,
+        "name": "/System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdwrite"
+    },
+    {
+        "pid": 1934,
+        "name": "/System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent"
+    },
+    {
+        "pid": 2197,
+        "name": "/System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storedownloadd"
+    },
+    {
+        "pid": 3260,
+        "name": "/System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/com.apple.appkit.xpc.openAndSavePanelService.xpc/Contents/MacOS/com.apple.appkit.xpc.openAndSavePanelService"
+    },
+    {
+        "pid": 3263,
+        "name": "/System/Library/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService"
+    },
+    {
+        "pid": 4027,
+        "name": "/usr/libexec/proactived"
+    },
+    {
+        "pid": 4058,
+        "name": "/System/Library/Frameworks/LocalAuthentication.framework/Support/coreauthd"
+    },
+    {
+        "pid": 4448,
+        "name": "/System/Library/PrivateFrameworks/CoreParsec.framework/parsecd"
+    },
+    {
+        "pid": 5247,
+        "name": "/System/Library/CoreServices/PowerChime.app/Contents/MacOS/PowerChime"
+    },
+    {
+        "pid": 5403,
+        "name": "/System/Library/PrivateFrameworks/SystemStatusServer.framework/Support/systemstatusd"
+    },
+    {
+        "pid": 5720,
+        "name": "/System/Library/CoreServices/TimeMachine/backupd"
+    },
+    {
+        "pid": 5785,
+        "name": "/usr/libexec/routined"
+    },
+    {
+        "pid": 5802,
+        "name": "/usr/libexec/tipsd"
+    },
+    {
+        "pid": 5968,
+        "name": "/usr/sbin/distnoted"
+    },
+    {
+        "pid": 6180,
+        "name": "/System/Applications/Preview.app/Contents/MacOS/Preview"
+    },
+    {
+        "pid": 6183,
+        "name": "/System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/com.apple.appkit.xpc.openAndSavePanelService.xpc/Contents/MacOS/com.apple.appkit.xpc.openAndSavePanelService"
+    },
+    {
+        "pid": 6184,
+        "name": "/System/Library/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService"
+    },
+    {
+        "pid": 6185,
+        "name": "/System/Library/Frameworks/ImageCaptureCore.framework/Versions/A/XPCServices/mscamerad-xpc.xpc/Contents/MacOS/mscamerad-xpc"
+    },
+    {
+        "pid": 6186,
+        "name": "/usr/libexec/ptpcamerad"
+    },
+    {
+        "pid": 6198,
+        "name": "/Applications/Microsoft Word.app/Contents/MacOS/Microsoft Word"
+    },
+    {
+        "pid": 6224,
+        "name": "/System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/com.apple.appkit.xpc.openAndSavePanelService.xpc/Contents/MacOS/com.apple.appkit.xpc.openAndSavePanelService"
+    },
+    {
+        "pid": 6411,
+        "name": "/usr/libexec/mmaintenanced"
+    },
+    {
+        "pid": 6483,
+        "name": "/usr/sbin/distnoted"
+    },
+    {
+        "pid": 10058,
+        "name": "/System/Library/PrivateFrameworks/KerberosHelper/Helpers/DiskUnmountWatcher"
+    },
+    {
+        "pid": 10087,
+        "name": "/private/var/folders/z0/tmg6mw012kj20sq2wld9gj980000gn/X/1C91613E-0003-56D6-8748-664DC4422E1F/d/Wrapper/MRMail.app/MRMail"
+    },
+    {
+        "pid": 10339,
+        "name": "/usr/libexec/searchpartyuseragent"
+    },
+    {
+        "pid": 10427,
+        "name": "/System/Library/PrivateFrameworks/IMDPersistence.framework/IMAutomaticHistoryDeletionAgent.app/Contents/MacOS/IMAutomaticHistoryDeletionAgent"
+    },
+    {
+        "pid": 10504,
+        "name": "/System/Library/CoreServices/talagentd"
+    },
+    {
+        "pid": 12229,
+        "name": "/System/Library/Services/AppleSpell.service/Contents/MacOS/AppleSpell"
+    },
+    {
+        "pid": 12263,
+        "name": "/private/var/folders/z0/tmg6mw012kj20sq2wld9gj980000gn/X/1C91613E-0003-56D6-8748-664DC4422E1F/d/Wrapper/MRMail.app/PlugIns/MRNotificationServiceExtension.appex/MRNotificationServiceExtension"
+    },
+    {
+        "pid": 12378,
+        "name": "/System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent"
+    },
+    {
+        "pid": 14102,
+        "name": "/System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent"
+    },
+    {
+        "pid": 14476,
+        "name": "/System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/ThemeWidgetControlViewService.xpc/Contents/MacOS/ThemeWidgetControlViewService"
+    },
+    {
+        "pid": 15002,
+        "name": "/Applications/pgAdmin 4.app/Contents/MacOS/pgAdmin 4"
+    },
+    {
+        "pid": 15003,
+        "name": "/Applications/pgAdmin 4.app/Contents/Frameworks/pgAdmin 4 Helper (GPU).app/Contents/MacOS/pgAdmin 4 Helper (GPU)"
+    },
+    {
+        "pid": 15004,
+        "name": "/Applications/pgAdmin 4.app/Contents/Frameworks/pgAdmin 4 Helper.app/Contents/MacOS/pgAdmin 4 Helper"
+    },
+    {
+        "pid": 15006,
+        "name": "/Applications/pgAdmin 4.app/Contents/Frameworks/Python.framework/Versions/3.12/Resources/Python.app/Contents/MacOS/Python"
+    },
+    {
+        "pid": 15013,
+        "name": "/Applications/pgAdmin 4.app/Contents/Frameworks/pgAdmin 4 Helper (Renderer).app/Contents/MacOS/pgAdmin 4 Helper (Renderer)"
+    },
+    {
+        "pid": 15418,
+        "name": "/System/Library/CoreServices/UserNotificationCenter.app/Contents/MacOS/UserNotificationCenter"
+    },
+    {
+        "pid": 15528,
+        "name": "/Applications/Visual Studio Code.app/Contents/MacOS/Electron"
+    },
+    {
+        "pid": 15530,
+        "name": "/Applications/Visual Studio Code.app/Contents/Frameworks/Electron Framework.framework/Helpers/chrome_crashpad_handler"
+    },
+    {
+        "pid": 15531,
+        "name": "/Applications/Visual Studio Code.app/Contents/Frameworks/Code Helper (GPU).app/Contents/MacOS/Code Helper (GPU)"
+    },
+    {
+        "pid": 15532,
+        "name": "/Applications/Visual Studio Code.app/Contents/Frameworks/Code Helper.app/Contents/MacOS/Code Helper"
+    },
+    {
+        "pid": 15545,
+        "name": "/Applications/Visual Studio Code.app/Contents/Frameworks/Code Helper.app/Contents/MacOS/Code Helper"
+    },
+    {
+        "pid": 15584,
+        "name": "/Applications/Visual Studio Code.app/Contents/Frameworks/Code Helper.app/Contents/MacOS/Code Helper"
+    },
+    {
+        "pid": 15898,
+        "name": "/System/Volumes/Preboot/Cryptexes/App/System/Library/CoreServices/Web App.app/Contents/MacOS/Web App"
+    },
+    {
+        "pid": 15911,
+        "name": "/System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Networking.xpc/Contents/MacOS/com.apple.WebKit.Networking"
+    },
+    {
+        "pid": 15920,
+        "name": "/System/Volumes/Preboot/Cryptexes/App/System/Library/CoreServices/Web App.app/Contents/XPCServices/com.apple.Safari.SandboxBroker.xpc/Contents/MacOS/com.apple.Safari.SandboxBroker"
+    },
+    {
+        "pid": 15996,
+        "name": "/System/Library/PrivateFrameworks/TelephonyUtilities.framework/callservicesd"
+    },
+    {
+        "pid": 15997,
+        "name": "/System/Library/Frameworks/Security.framework/Versions/A/XPCServices/com.apple.CodeSigningHelper.xpc/Contents/MacOS/com.apple.CodeSigningHelper"
+    },
+    {
+        "pid": 16011,
+        "name": "/usr/libexec/triald"
+    },
+    {
+        "pid": 16046,
+        "name": "/System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent"
+    },
+    {
+        "pid": 16651,
+        "name": "/Library/Apple/System/Library/PrivateFrameworks/RemotePairing.framework/Versions/A/XPCServices/remotepairingd.xpc/Contents/MacOS/remotepairingd"
+    },
+    {
+        "pid": 16996,
+        "name": "/System/Volumes/Preboot/Cryptexes/App/System/Library/CoreServices/Web App.app/Contents/MacOS/Web App"
+    },
+    {
+        "pid": 17017,
+        "name": "/System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Networking.xpc/Contents/MacOS/com.apple.WebKit.Networking"
+    },
+    {
+        "pid": 17025,
+        "name": "/System/Volumes/Preboot/Cryptexes/App/System/Library/CoreServices/Web App.app/Contents/XPCServices/com.apple.Safari.SandboxBroker.xpc/Contents/MacOS/com.apple.Safari.SandboxBroker"
+    },
+    {
+        "pid": 17045,
+        "name": "/System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/com.apple.appkit.xpc.openAndSavePanelService.xpc/Contents/MacOS/com.apple.appkit.xpc.openAndSavePanelService"
+    },
+    {
+        "pid": 17047,
+        "name": "/System/Library/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService"
+    },
+    {
+        "pid": 17048,
+        "name": "/System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent"
+    },
+    {
+        "pid": 17095,
+        "name": "/System/Library/CoreServices/pbs"
+    },
+    {
+        "pid": 17167,
+        "name": "/usr/libexec/mobileassetd"
+    },
+    {
+        "pid": 17208,
+        "name": "/usr/libexec/secinitd"
+    },
+    {
+        "pid": 17209,
+        "name": "/System/Library/Frameworks/Contacts.framework/Support/contactsd"
+    },
+    {
+        "pid": 17211,
+        "name": "/System/Library/PrivateFrameworks/CloudKitDaemon.framework/Support/cloudd"
+    },
+    {
+        "pid": 17227,
+        "name": "/usr/libexec/pkd"
+    },
+    {
+        "pid": 17339,
+        "name": "/System/Library/PrivateFrameworks/StatusKit.framework/StatusKitAgent"
+    },
+    {
+        "pid": 17391,
+        "name": "/usr/libexec/rtcreportingd"
+    },
+    {
+        "pid": 17410,
+        "name": "/usr/libexec/keyboardservicesd"
+    },
+    {
+        "pid": 17512,
+        "name": "postgres: nikolajsusencov postgres ::1(58009) idle"
+    },
+    {
+        "pid": 17513,
+        "name": "postgres: nikolajsusencov demo ::1(58010) idle"
+    },
+    {
+        "pid": 17514,
+        "name": "postgres: nikolajsusencov demo3 ::1(58011) idle"
+    },
+    {
+        "pid": 18244,
+        "name": "/System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent"
+    },
+    {
+        "pid": 18249,
+        "name": "/usr/libexec/swcd"
+    },
+    {
+        "pid": 18266,
+        "name": "/Applications/pgAdmin 4.app/Contents/SharedSupport/psql"
+    },
+    {
+        "pid": 18268,
+        "name": "/Applications/pgAdmin 4.app/Contents/SharedSupport/psql"
+    },
+    {
+        "pid": 18269,
+        "name": "postgres: nikolajsusencov demo ::1(58136) idle"
+    },
+    {
+        "pid": 18270,
+        "name": "postgres: nikolajsusencov demo ::1(58137) idle"
+    },
+    {
+        "pid": 18414,
+        "name": "/usr/sbin/netbiosd"
+    },
+    {
+        "pid": 18417,
+        "name": "/System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent"
+    },
+    {
+        "pid": 18485,
+        "name": "/System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent"
+    },
+    {
+        "pid": 19032,
+        "name": "/Library/Frameworks/Python.framework/Versions/3.12/Resources/Python.app/Contents/MacOS/Python"
+    },
+    {
+        "pid": 19033,
+        "name": "/Library/Frameworks/Python.framework/Versions/3.12/Resources/Python.app/Contents/MacOS/Python"
+    },
+    {
+        "pid": 19034,
+        "name": "<defunct>"
+    },
+    {
+        "pid": 19126,
+        "name": "/usr/libexec/containermanagerd_system"
+    },
+    {
+        "pid": 19164,
+        "name": "/usr/libexec/audioanalyticsd"
+    },
+    {
+        "pid": 19173,
+        "name": "/usr/libexec/replayd"
+    },
+    {
+        "pid": 19176,
+        "name": "/System/Library/PrivateFrameworks/TVIdleServices.framework/idleassetsd"
+    },
+    {
+        "pid": 19193,
+        "name": "/System/Library/PrivateFrameworks/Synapse.framework/Support/contentlinkingd"
+    },
+    {
+        "pid": 19194,
+        "name": "/System/Library/CoreServices/Keychain Circle Notification.app/Contents/MacOS/Keychain Circle Notification"
+    },
+    {
+        "pid": 19208,
+        "name": "/usr/libexec/audiomxd"
+    },
+    {
+        "pid": 19210,
+        "name": "/System/Library/CoreServices/UniversalControl.app/Contents/MacOS/UniversalControl"
+    },
+    {
+        "pid": 19211,
+        "name": "/usr/libexec/SidecarRelay"
+    },
+    {
+        "pid": 19212,
+        "name": "/usr/libexec/online-auth-agent"
+    },
+    {
+        "pid": 19218,
+        "name": "/System/Library/PrivateFrameworks/IntelligenceFlowRuntime.framework/Versions/A/intelligenceflowd"
+    },
+    {
+        "pid": 19224,
+        "name": "/System/Library/PrivateFrameworks/AutoFillUI.framework/Contents/AutoFillPanelService.app/Contents/MacOS/AutoFillPanelService"
+    },
+    {
+        "pid": 19225,
+        "name": "/System/Library/PrivateFrameworks/EmailDaemon.framework/Versions/A/maild"
+    },
+    {
+        "pid": 19226,
+        "name": "/System/Library/PrivateFrameworks/CommunicationsFilter.framework/CMFSyncAgent"
+    },
+    {
+        "pid": 19237,
+        "name": "/System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService"
+    },
+    {
+        "pid": 19238,
+        "name": "/System/Library/Frameworks/QuickLookThumbnailing.framework/Support/com.apple.quicklook.ThumbnailsAgent"
+    },
+    {
+        "pid": 19239,
+        "name": "/usr/libexec/storagekitd"
+    },
+    {
+        "pid": 19240,
+        "name": "/System/Library/Frameworks/ExtensionFoundation.framework/Versions/A/XPCServices/extensionkitservice.xpc/Contents/MacOS/extensionkitservice"
+    },
+    {
+        "pid": 19241,
+        "name": "/System/Library/ExtensionKit/Extensions/TextThumbnailExtension.appex/Contents/MacOS/TextThumbnailExtension"
+    },
+    {
+        "pid": 19242,
+        "name": "/System/Library/ExtensionKit/Extensions/WebThumbnailExtension.appex/Contents/MacOS/WebThumbnailExtension"
+    },
+    {
+        "pid": 19243,
+        "name": "/System/Library/ExtensionKit/Extensions/OfficeThumbnailExtension.appex/Contents/MacOS/OfficeThumbnailExtension"
+    },
+    {
+        "pid": 19246,
+        "name": "/System/Library/PrivateFrameworks/CacheDelete.framework/deleted"
+    },
+    {
+        "pid": 19247,
+        "name": "/System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.GPU.xpc/Contents/MacOS/com.apple.WebKit.GPU"
+    },
+    {
+        "pid": 19250,
+        "name": "/System/Library/Frameworks/AudioToolbox.framework/AudioComponentRegistrar"
+    },
+    {
+        "pid": 19252,
+        "name": "/System/Library/Frameworks/AudioToolbox.framework/XPCServices/CarbonComponentScannerXPC.xpc/Contents/MacOS/CarbonComponentScannerXPC"
+    },
+    {
+        "pid": 19253,
+        "name": "/System/Library/PrivateFrameworks/EcosystemAnalytics.framework/Support/ecosystemanalyticsd"
+    },
+    {
+        "pid": 19258,
+        "name": "/System/Library/PrivateFrameworks/CacheDelete.framework/deleted_helper"
+    },
+    {
+        "pid": 19259,
+        "name": "/usr/libexec/aneuserd"
+    },
+    {
+        "pid": 19261,
+        "name": "/System/Library/PrivateFrameworks/GeoServices.framework/geodMachServiceBridge"
+    },
+    {
+        "pid": 19262,
+        "name": "/System/Library/PrivateFrameworks/PackageKit.framework/Resources/installd"
+    },
+    {
+        "pid": 19263,
+        "name": "/System/Library/CoreServices/TimeMachine/backupd-helper"
+    },
+    {
+        "pid": 19264,
+        "name": "/usr/libexec/AssetCache/AssetCache"
+    },
+    {
+        "pid": 19265,
+        "name": "/System/Library/PrivateFrameworks/CloudDocsDaemon.framework/Versions/A/Support/bird"
+    },
+    {
+        "pid": 19266,
+        "name": "/System/Library/PrivateFrameworks/CoreSymbolication.framework/coresymbolicationd"
+    },
+    {
+        "pid": 19267,
+        "name": "/System/Library/PrivateFrameworks/CloudKitDaemon.framework/Support/cloudd"
+    },
+    {
+        "pid": 19268,
+        "name": "/System/Library/PrivateFrameworks/PackageKit.framework/Resources/system_installd"
+    },
+    {
+        "pid": 19269,
+        "name": "/usr/libexec/usermanagerd"
+    },
+    {
+        "pid": 19270,
+        "name": "/System/Library/PrivateFrameworks/AssetCacheServicesExtensions.framework/XPCServices/AssetCacheTetheratorService.xpc/Contents/MacOS/AssetCacheTetheratorService"
+    },
+    {
+        "pid": 19271,
+        "name": "/System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod"
+    },
+    {
+        "pid": 19272,
+        "name": "/System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod"
+    },
+    {
+        "pid": 19273,
+        "name": "/System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod"
+    },
+    {
+        "pid": 19274,
+        "name": "/System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod"
+    },
+    {
+        "pid": 19275,
+        "name": "/usr/libexec/secinitd"
+    },
+    {
+        "pid": 19276,
+        "name": "/usr/libexec/secinitd"
+    },
+    {
+        "pid": 19277,
+        "name": "/usr/libexec/secinitd"
+    },
+    {
+        "pid": 19278,
+        "name": "/usr/sbin/cfprefsd"
+    },
+    {
+        "pid": 19279,
+        "name": "/usr/libexec/trustd"
+    },
+    {
+        "pid": 19280,
+        "name": "/usr/libexec/trustdFileHelper"
+    },
+    {
+        "pid": 19281,
+        "name": "/usr/sbin/cfprefsd"
+    },
+    {
+        "pid": 19282,
+        "name": "/usr/libexec/containermanagerd"
+    },
+    {
+        "pid": 19283,
+        "name": "/usr/libexec/trustd"
+    },
+    {
+        "pid": 19284,
+        "name": "/usr/libexec/containermanagerd"
+    },
+    {
+        "pid": 19290,
+        "name": "/System/Library/PrivateFrameworks/iCloudDriveService.framework/XPCServices/ContainerMetadataExtractor.xpc/Contents/MacOS/ContainerMetadataExtractor"
+    },
+    {
+        "pid": 19291,
+        "name": "/usr/libexec/triald_system"
+    },
+    {
+        "pid": 19295,
+        "name": "/usr/libexec/sysmond"
+    },
+    {
+        "pid": 19322,
+        "name": "/usr/sbin/systemsoundserverd"
+    },
+    {
+        "pid": 19323,
+        "name": "/System/Library/Frameworks/AudioToolbox.framework/AudioComponentRegistrar"
+    },
+    {
+        "pid": 19324,
+        "name": "/System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper"
+    },
+    {
+        "pid": 19336,
+        "name": "/usr/libexec/biometrickitd"
+    },
+    {
+        "pid": 19341,
+        "name": "/System/Library/Frameworks/CoreTelephony.framework/Support/CommCenter"
+    },
+    {
+        "pid": 19342,
+        "name": "/System/Library/CoreServices/CoreLocationAgent.app/Contents/MacOS/CoreLocationAgent"
+    },
+    {
+        "pid": 19343,
+        "name": "/usr/libexec/nehelper"
+    },
+    {
+        "pid": 19345,
+        "name": "/usr/libexec/icloudmailagent"
+    },
+    {
+        "pid": 19347,
+        "name": "/usr/libexec/ospredictiond"
+    },
+    {
+        "pid": 19348,
+        "name": "/System/Library/PrivateFrameworks/BiomeStreams.framework/Support/biomed"
+    },
+    {
+        "pid": 19349,
+        "name": "/usr/libexec/gamecontrollerd"
+    },
+    {
+        "pid": 19350,
+        "name": "/usr/libexec/gamecontrolleragentd"
+    },
+    {
+        "pid": 19352,
+        "name": "/usr/libexec/feedbackd"
+    },
+    {
+        "pid": 19355,
+        "name": "/System/Library/PrivateFrameworks/BusinessChatService.framework/businessservicesd"
+    },
+    {
+        "pid": 19357,
+        "name": "/System/Library/PrivateFrameworks/MessagesBlastDoorSupport.framework/Versions/A/XPCServices/MessagesBlastDoorService.xpc/Contents/MacOS/MessagesBlastDoorService"
+    },
+    {
+        "pid": 19366,
+        "name": "/System/Library/Frameworks/CoreSpotlight.framework/spotlightknowledged"
+    },
+    {
+        "pid": 19368,
+        "name": "/System/Library/CoreServices/CoreServicesUIAgent.app/Contents/MacOS/CoreServicesUIAgent"
+    },
+    {
+        "pid": 19371,
+        "name": "/System/Library/CoreServices/ScopedBookmarkAgent"
+    },
+    {
+        "pid": 19437,
+        "name": "/System/Library/CoreServices/TextInputSwitcher.app/Contents/MacOS/TextInputSwitcher"
+    },
+    {
+        "pid": 19439,
+        "name": "/System/Library/PrivateFrameworks/AppPredictionFoundation.framework/Versions/A/XPCServices/AppPredictionIntentsHelperService.xpc/Contents/MacOS/AppPredictionIntentsHelperService"
+    },
+    {
+        "pid": 19440,
+        "name": "/System/Library/PrivateFrameworks/CalendarDaemon.framework/Support/calaccessd"
+    },
+    {
+        "pid": 19442,
+        "name": "/usr/libexec/securityd_system"
+    },
+    {
+        "pid": 19443,
+        "name": "/usr/libexec/linkd"
+    },
+    {
+        "pid": 19444,
+        "name": "/usr/libexec/coreduetd"
+    },
+    {
+        "pid": 19445,
+        "name": "/usr/libexec/sandboxd"
+    },
+    {
+        "pid": 19447,
+        "name": "/usr/libexec/knowledge-agent"
+    },
+    {
+        "pid": 19448,
+        "name": "/usr/libexec/remindd"
+    },
+    {
+        "pid": 19449,
+        "name": "/System/Library/PrivateFrameworks/AuthKit.framework/Versions/A/Support/akd"
+    },
+    {
+        "pid": 19450,
+        "name": "/System/Library/PrivateFrameworks/CoreADI.framework/adid"
+    },
+    {
+        "pid": 19452,
+        "name": "/System/Library/PrivateFrameworks/AOSKit.framework/Versions/A/XPCServices/com.apple.iCloudHelper.xpc/Contents/MacOS/com.apple.iCloudHelper"
+    },
+    {
+        "pid": 19518,
+        "name": "/System/Library/CoreServices/Dock.app/Contents/XPCServices/DockHelper.xpc/Contents/MacOS/DockHelper"
+    },
+    {
+        "pid": 19519,
+        "name": "/System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService"
+    },
+    {
+        "pid": 19522,
+        "name": "/usr/libexec/dmd"
+    },
+    {
+        "pid": 19528,
+        "name": "/usr/libexec/logd_helper"
+    },
+    {
+        "pid": 19533,
+        "name": "/System/Library/Frameworks/ManagedSettings.framework/Versions/A/ManagedSettingsAgent"
+    },
+    {
+        "pid": 19534,
+        "name": "/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/XPCServices/csnameddatad.xpc/Contents/MacOS/csnameddatad"
+    },
+    {
+        "pid": 19552,
+        "name": "/System/Library/CoreServices/iconservicesagent"
+    },
+    {
+        "pid": 19559,
+        "name": "/System/Library/CoreServices/iconservicesd"
+    },
+    {
+        "pid": 19589,
+        "name": "/Applications/PyCharm CE.app/Contents/MacOS/pycharm"
+    },
+    {
+        "pid": 19600,
+        "name": "/Applications/PyCharm CE.app/Contents/bin/fsnotifier"
+    },
+    {
+        "pid": 19603,
+        "name": "/Applications/PyCharm CE.app/Contents/jbr/Contents/Frameworks/jcef Helper (GPU).app/Contents/MacOS/jcef Helper (GPU)"
+    },
+    {
+        "pid": 19604,
+        "name": "/Applications/PyCharm CE.app/Contents/jbr/Contents/Frameworks/jcef Helper.app/Contents/MacOS/jcef Helper"
+    },
+    {
+        "pid": 19718,
+        "name": "/System/Library/PrivateFrameworks/CoreFollowUp.framework/Versions/A/Support/followupd"
+    },
+    {
+        "pid": 19719,
+        "name": "/usr/libexec/fmfd"
+    },
+    {
+        "pid": 19720,
+        "name": "/usr/libexec/studentd"
+    },
+    {
+        "pid": 19721,
+        "name": "/System/Library/PrivateFrameworks/ContactsDonation.framework/Versions/A/Support/contactsdonationagent"
+    },
+    {
+        "pid": 19722,
+        "name": "/usr/libexec/appleaccountd"
+    },
+    {
+        "pid": 19723,
+        "name": "/usr/libexec/dirhelper"
+    },
+    {
+        "pid": 19725,
+        "name": "/System/Library/PrivateFrameworks/CloudPhotoServices.framework/Versions/A/XPCServices/com.apple.CloudPhotosConfiguration.xpc/Contents/MacOS/com.apple.CloudPhotosConfiguration"
+    },
+    {
+        "pid": 19726,
+        "name": "/System/Library/PrivateFrameworks/CoreCDP.framework/Versions/A/Resources/cdpd"
+    },
+    {
+        "pid": 19727,
+        "name": "/System/Library/PrivateFrameworks/iCloudNotification.framework/iCloudNotificationAgent"
+    },
+    {
+        "pid": 19728,
+        "name": "/System/Library/PrivateFrameworks/PhotoLibraryServices.framework/Versions/A/Support/photolibraryd"
+    },
+    {
+        "pid": 19729,
+        "name": "/usr/libexec/mobileactivationd"
+    },
+    {
+        "pid": 19730,
+        "name": "/usr/libexec/findmydeviced"
+    },
+    {
+        "pid": 19731,
+        "name": "/System/Library/PrivateFrameworks/ModelCatalogRuntime.framework/Versions/A/modelcatalogd"
+    },
+    {
+        "pid": 19732,
+        "name": "/usr/libexec/findmydevice-user-agent"
+    },
+    {
+        "pid": 19733,
+        "name": "/System/Library/Frameworks/CryptoTokenKit.framework/ctkd"
+    },
+    {
+        "pid": 19734,
+        "name": "/System/Library/Frameworks/Security.framework/Versions/A/XPCServices/TrustedPeersHelper.xpc/Contents/MacOS/TrustedPeersHelper"
+    },
+    {
+        "pid": 19736,
+        "name": "/System/Library/PrivateFrameworks/AccountPolicy.framework/XPCServices/com.apple.AccountPolicyHelper.xpc/Contents/MacOS/com.apple.AccountPolicyHelper"
+    },
+    {
+        "pid": 19738,
+        "name": "/System/Library/PrivateFrameworks/MediaAnalysis.framework/Versions/A/mediaanalysisd"
+    },
+    {
+        "pid": 19739,
+        "name": "/System/Library/PrivateFrameworks/PhotoAnalysis.framework/Versions/A/Support/photoanalysisd"
+    },
+    {
+        "pid": 19740,
+        "name": "/usr/libexec/smd"
+    },
+    {
+        "pid": 19744,
+        "name": "/System/Library/PrivateFrameworks/DataAccess.framework/Support/dataaccessd"
+    },
+    {
+        "pid": 19745,
+        "name": "/usr/libexec/transparencyd"
+    },
+    {
+        "pid": 19746,
+        "name": "/System/Library/PrivateFrameworks/IMDPersistence.framework/XPCServices/IMDPersistenceAgent.xpc/Contents/MacOS/IMDPersistenceAgent"
+    },
+    {
+        "pid": 19747,
+        "name": "/System/Library/Frameworks/ClassKit.framework/Versions/A/progressd"
+    },
+    {
+        "pid": 19748,
+        "name": "/System/Library/PrivateFrameworks/CloudTelemetry.framework/Versions/A/XPCServices/CloudTelemetryService.xpc/Contents/MacOS/CloudTelemetryService"
+    },
+    {
+        "pid": 19750,
+        "name": "/usr/libexec/inputanalyticsd"
+    },
+    {
+        "pid": 19751,
+        "name": "/System/Library/PrivateFrameworks/ProtectedCloudStorage.framework/Helpers/ProtectedCloudKeySyncing"
+    },
+    {
+        "pid": 19753,
+        "name": "/usr/libexec/nfcd"
+    },
+    {
+        "pid": 19754,
+        "name": "/System/Library/PrivateFrameworks/NearFieldPrivateServices.framework/Versions/A/XPCServices/NFStorageServer.xpc/Contents/MacOS/NFStorageServer"
+    },
+    {
+        "pid": 19755,
+        "name": "cloudphotod"
+    },
+    {
+        "pid": 19758,
+        "name": "/System/Library/PrivateFrameworks/ScreenTimeCore.framework/Versions/A/ScreenTimeAgent"
+    },
+    {
+        "pid": 19759,
+        "name": "/System/Library/Frameworks/FamilyControls.framework/Versions/A/FamilyControlsAgent"
+    },
+    {
+        "pid": 19760,
+        "name": "/System/Library/PrivateFrameworks/Categories.framework/Versions/A/XPCServices/CategoriesService.xpc/Contents/MacOS/CategoriesService"
+    },
+    {
+        "pid": 19761,
+        "name": "/System/Library/PrivateFrameworks/ContextKit.framework/Versions/A/XPCServices/ContextService.xpc/Contents/MacOS/ContextService"
+    },
+    {
+        "pid": 19762,
+        "name": "/System/Library/Frameworks/ColorSync.framework/Support/colorsync.useragent"
+    },
+    {
+        "pid": 19763,
+        "name": "/System/Library/Frameworks/ColorSync.framework/Versions/A/XPCServices/com.apple.ColorSyncXPCAgent.xpc/Contents/MacOS/com.apple.ColorSyncXPCAgent"
+    },
+    {
+        "pid": 19764,
+        "name": "/usr/libexec/colorsyncd"
+    },
+    {
+        "pid": 19765,
+        "name": "/usr/libexec/neagent"
+    },
+    {
+        "pid": 19768,
+        "name": "/System/Library/PrivateFrameworks/AssetCacheServices.framework/Versions/A/XPCServices/AssetCacheLocatorService.xpc/Contents/MacOS/AssetCacheLocatorService"
+    },
+    {
+        "pid": 19769,
+        "name": "/usr/libexec/naturallanguaged"
+    },
+    {
+        "pid": 19772,
+        "name": "/System/Library/PrivateFrameworks/UsageTracking.framework/Versions/A/UsageTrackingAgent"
+    },
+    {
+        "pid": 19773,
+        "name": "/usr/libexec/powerdatad"
+    },
+    {
+        "pid": 19775,
+        "name": "/System/Library/PrivateFrameworks/ChronoCore.framework/Support/chronod"
+    },
+    {
+        "pid": 19776,
+        "name": "/System/Library/PrivateFrameworks/ReplicatorCore.framework/Support/replicatord"
+    },
+    {
+        "pid": 19777,
+        "name": "/System/Library/PrivateFrameworks/PowerLog.framework/Versions/A/XPCServices/PerfPowerTelemetryClientRegistrationService.xpc/Contents/MacOS/PerfPowerTelemetryClientRegistrationService"
+    },
+    {
+        "pid": 19778,
+        "name": "/System/Library/PrivateFrameworks/IntlPreferences.framework/Support/localizationswitcherd"
+    },
+    {
+        "pid": 19779,
+        "name": "/System/Library/Frameworks/ExtensionFoundation.framework/Versions/A/XPCServices/extensionkitservice.xpc/Contents/MacOS/extensionkitservice"
+    },
+    {
+        "pid": 19780,
+        "name": "/System/Applications/Weather.app/Contents/PlugIns/WeatherWidget.appex/Contents/MacOS/WeatherWidget"
+    },
+    {
+        "pid": 19821,
+        "name": "/System/Library/PrivateFrameworks/CSExattrCrypto.framework/Versions/A/XPCServices/CSExattrCryptoService.xpc/Contents/MacOS/CSExattrCryptoService"
+    },
+    {
+        "pid": 19824,
+        "name": "/usr/libexec/nesessionmanager"
+    },
+    {
+        "pid": 19825,
+        "name": "/System/Library/Frameworks/SystemExtensions.framework/Versions/A/Helpers/sysextd"
+    },
+    {
+        "pid": 19826,
+        "name": "/System/Library/PrivateFrameworks/XprotectFramework.framework/Versions/A/XPCServices/XprotectService.xpc/Contents/MacOS/XprotectService"
+    },
+    {
+        "pid": 19827,
+        "name": "/System/Library/PrivateFrameworks/CSExattrCrypto.framework/Versions/A/XPCServices/CSExattrCryptoService.xpc/Contents/MacOS/CSExattrCryptoService"
+    },
+    {
+        "pid": 19832,
+        "name": "/usr/libexec/findmybeaconingd"
+    },
+    {
+        "pid": 19874,
+        "name": "/usr/libexec/mlhostd"
+    },
+    {
+        "pid": 19878,
+        "name": "/System/Library/Frameworks/ExtensionFoundation.framework/Versions/A/XPCServices/extensionkitservice.xpc/Contents/MacOS/extensionkitservice"
+    },
+    {
+        "pid": 19884,
+        "name": "/System/Library/PrivateFrameworks/CoreParsec.framework/parsec-fbf"
+    },
+    {
+        "pid": 19937,
+        "name": "/System/Library/CoreServices/Screen Time.app/Contents/PlugIns/ScreenTimeWidgetExtension.appex/Contents/MacOS/ScreenTimeWidgetExtension"
+    },
+    {
+        "pid": 20016,
+        "name": "/System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared"
+    },
+    {
+        "pid": 20038,
+        "name": "/System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared"
+    },
+    {
+        "pid": 20054,
+        "name": "/System/Applications/TextEdit.app/Contents/MacOS/TextEdit"
+    },
+    {
+        "pid": 20055,
+        "name": "/System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/com.apple.appkit.xpc.openAndSavePanelService.xpc/Contents/MacOS/com.apple.appkit.xpc.openAndSavePanelService"
+    },
+    {
+        "pid": 20056,
+        "name": "/System/Library/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService"
+    },
+    {
+        "pid": 20067,
+        "name": "/System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared"
+    },
+    {
+        "pid": 20077,
+        "name": "/System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared"
+    },
+    {
+        "pid": 20078,
+        "name": "/Library/Frameworks/Python.framework/Versions/3.12/Resources/Python.app/Contents/MacOS/Python"
+    },
+    {
+        "pid": 20079,
+        "name": "/Library/Frameworks/Python.framework/Versions/3.12/Resources/Python.app/Contents/MacOS/Python"
+    },
+    {
+        "pid": 20080,
+        "name": "/Library/Frameworks/Python.framework/Versions/3.12/Resources/Python.app/Contents/MacOS/Python"
+    },
+    {
+        "pid": 20083,
+        "name": "ps"
+    },
+    {
+        "pid": 329,
+        "name": "/usr/libexec/remoted"
+    }
+]
