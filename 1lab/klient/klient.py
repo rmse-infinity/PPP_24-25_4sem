@@ -17,6 +17,7 @@ PORT = 5555
 FORMAT = 'utf-8'
 HOST = 'localhost'
 
+
 def create_save_path():
     script_path = os.path.dirname(os.path.abspath(__file__))
 
@@ -31,28 +32,41 @@ def create_save_path():
 
     return json_save_path
 
+
 def send_data_with_size(client_socket, data):
     data_json = json.dumps(data)
     data_length = struct.pack("I", len(data_json))
     client_socket.sendall(data_length)
     client_socket.sendall(data_json.encode(FORMAT))
 
+
 def receive_file(client_socket, filename):
     try:
-        with open(filename, 'wb') as file:
-            total_received = 0
-            while True:
-                data = client_socket.recv(1024)
-                if not data:
-                    break
-                file.write(data)
-                total_received += len(data)
+        file_size_data = client_socket.recv(4)  # Получаем размер файла (4 байта)
+        if not file_size_data:
+            logging.error("Ошибка: не получен размер файла.")
+            return
 
-            logging.info(f"Файл {filename} получен успешно, размер: {total_received} байт.")
-            if total_received == 0:
-                logging.warning(f"Предупреждение: файл {filename} пуст!")
+        file_size = struct.unpack("I", file_size_data)[0]
+        if file_size == 0:
+            logging.warning(f"Файл {filename} не найден на сервере!")
+            return
+
+        received_data = b""
+        while len(received_data) < file_size:
+            chunk = client_socket.recv(min(1024, file_size - len(received_data)))
+            if chunk.endswith(b'EOF'):
+                received_data += chunk[:-3]  # Убираем маркер конца файла
+                break
+            received_data += chunk
+
+        with open(filename, 'wb') as file:
+            file.write(received_data)
+
+        logging.info(f"Файл {filename} ({len(received_data)} байт) успешно получен.")
     except Exception as e:
         logging.error(f"Ошибка при получении файла: {e}")
+
 
 def send_signal(client_socket, pid, signal_type):
     command = {
@@ -63,49 +77,44 @@ def send_signal(client_socket, pid, signal_type):
     send_data_with_size(client_socket, command)
     logging.info(f"Отправлен сигнал {signal_type} процессу с PID {pid}")
 
+
 def start_client():
     client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-
     try:
         client_socket.connect((HOST, PORT))
         logging.info(f"Подключено к серверу {HOST}:{PORT}")
 
         while True:
-            print("Доступные команды:")
-            print("1. Обновить информацию о процессах (update)")
-            print("2. Отправить сигнал процессу (signal)")
-            print("3. Выход (exit)")
+            command = input("Введите команду (update, signal, exit): ").strip().lower()
+            if command == "exit":
+                break
 
-            user_input = input("Введите команду: ").strip().lower()
+            command_data = {"action": command}
+            if command == "signal":
+                pid = int(input("Введите PID процесса: "))
+                signal_type = input("Введите тип сигнала (terminate/kill): ").strip().lower()
+                command_data["pid"] = pid
+                command_data["signal_type"] = signal_type
 
-            if user_input == "update":
-                command = {"action": "update"}
-                send_data_with_size(client_socket, command)
+            data_json = json.dumps(command_data)
+            client_socket.sendall(struct.pack("I", len(data_json)))
+            client_socket.sendall(data_json.encode(FORMAT))
 
+            if command == "update":
                 json_save_path = create_save_path()
-
                 receive_file(client_socket, json_save_path)
                 print(f"Данные сохранены в {json_save_path}")
 
-            elif user_input == "signal":
-                pid = int(input("Введите PID процесса: "))
-                signal_type = input("Введите тип сигнала (terminate/kill): ").strip().lower()
-                send_signal(client_socket, pid, signal_type)
-
-            elif user_input == "exit":
-                print("Завершаем работу клиента.")
-                break
-
-            else:
-                print("Неизвестная команда. Попробуйте снова.")
+                continue
 
     except Exception as e:
-        logging.error(f"Ошибка подключения к серверу: {e}")
-        print(f"Ошибка подключения: {e}")
+        logging.error(f"Ошибка клиента: {e}")
+        print(f"Ошибка: {e}")
 
     finally:
-        logging.info("Соединение с сервером закрыто.")
         client_socket.close()
+        logging.info("Соединение закрыто.")
+
 
 if __name__ == "__main__":
     start_client()
