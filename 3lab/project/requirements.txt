@@ -10,3 +10,5 @@ pydantic-settings==2.8.1
 
 celery[redis]==5.5.1
 redislite==6.2.912183
+
+requests==2.32.3

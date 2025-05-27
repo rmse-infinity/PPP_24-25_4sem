@@ -1,7 +1,6 @@
 import redislite
 from celery import Celery
 
-
 rdb = redislite.Redis('/tmp/redis.db')
 
 REDIS_SOCKET_PATH = 'redis+socket://%s' % (rdb.socket_file,)
