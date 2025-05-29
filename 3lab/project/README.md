@@ -14,6 +14,10 @@ openssl rand -hex 32
 
 # start
 ```shell
+
 ./start.sh
 ./worker.sh
+
+ xattr -d com.apple.quarantine worker.sh
+ chmod +x worker.sh  
 ```
